@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320">
+  <defs>
+    <linearGradient id="goldJC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e0c07a"/>
+      <stop offset="55%" stop-color="#c19a32"/>
+      <stop offset="100%" stop-color="#7a601a"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Fraunces, Playfair Display, Georgia, serif"
+     font-weight="700"
+     font-size="220"
+     letter-spacing="-4"
+     fill="url(#goldJC)"
+     stroke="#3b2c0a"
+     stroke-width="1.2">
+    <text x="135" y="225" text-anchor="middle">J</text>
+    <text x="275" y="225" text-anchor="middle">C</text>
+  </g>
+  <g fill="none" stroke="url(#goldJC)" stroke-width="2" opacity="0.55">
+    <line x1="60" y1="255" x2="340" y2="255"/>
+  </g>
+  <text x="200" y="285" text-anchor="middle"
+        font-family="Inter, Helvetica, Arial, sans-serif"
+        font-size="22" letter-spacing="6"
+        fill="url(#goldJC)">KAPPERS</text>
+</svg>
